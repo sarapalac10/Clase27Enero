@@ -1,0 +1,11 @@
+{
+  "peliculas": [
+    {
+      "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/copesa/OWQ4RZPS7ZA4XNHPZD3QNBVNIA.jpg",
+      "nombre": "jurassic",
+      "director": "marta fernandez",
+      "descripcion": "dgdgdg",
+      "id": 3
+    }
+  ]
+}
